@@ -22,7 +22,9 @@ JavaScript (DOM Manipulation)
 ToDo-App/
 │
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 index.html → Structure of the webpage
