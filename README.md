@@ -2,8 +2,11 @@
 A basic ToDo List web application built using HTML, CSS, and JavaScript.
 
 This project allows users to:
+
 ➕ Add new tasks
+
 ✅ Mark tasks as completed
+
 ❌ Delete tasks
 
 🚀 Features
