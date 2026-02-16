@@ -21,6 +21,7 @@ JavaScript (DOM Manipulation)
 📂 Project Structure
 ToDo-App/
 │
+
 ├── index.html
 
 ├── style.css
