@@ -1,6 +1,8 @@
 🌸 Simple ToDo App
 A basic ToDo List web application built using HTML, CSS, and JavaScript.
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ce79149e-15c6-4806-bc07-ae23d010f12b" />
+
 This project allows users to:
 
 ➕ Add new tasks
